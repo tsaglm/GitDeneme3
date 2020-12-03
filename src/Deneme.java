@@ -3,5 +3,7 @@ public class Deneme {
 
         System.out.println("feature brancden 1. yazimiz");
         System.out.println("Feature branchden 2.yazimiz");
+        System.out.println("GitHub Master branchden 1.yazimiz");
+        
     }
 }
